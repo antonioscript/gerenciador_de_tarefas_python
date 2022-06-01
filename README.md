@@ -1,5 +1,5 @@
 # gerenciador_de_tarefas_python
- Programa criado com o intuito de gerenciar tarefas e organizá-las de forma simples, rápide e fácil</br>
+ Programa criado com o intuito de gerenciar tarefas e organizá-las de forma simples, rápida e fácil</br>
 
  ![image](https://user-images.githubusercontent.com/10932478/170581937-592c3276-9818-4a45-8d2b-2f8b55d76092.png)
 
